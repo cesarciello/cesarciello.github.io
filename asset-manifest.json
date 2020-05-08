@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63c82b5f.chunk.css",
+    "main.js": "/static/js/main.f18c4ca8.chunk.js",
+    "main.js.map": "/static/js/main.f18c4ca8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ecd94e98.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ecd94e98.js.map",
+    "static/js/2.91f68658.chunk.js": "/static/js/2.91f68658.chunk.js",
+    "static/js/2.91f68658.chunk.js.map": "/static/js/2.91f68658.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4f769ccd0dcafebc3e2033840d2613c5.js": "/precache-manifest.4f769ccd0dcafebc3e2033840d2613c5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.63c82b5f.chunk.css.map": "/static/css/main.63c82b5f.chunk.css.map",
+    "static/js/2.91f68658.chunk.js.LICENSE.txt": "/static/js/2.91f68658.chunk.js.LICENSE.txt",
+    "static/media/Expirience.svg": "/static/media/Expirience.cdc4a1a5.svg",
+    "static/media/Home.svg": "/static/media/Home.023ee584.svg",
+    "static/media/Project.svg": "/static/media/Project.296293e2.svg",
+    "static/media/Talk.svg": "/static/media/Talk.2ae3a8dd.svg",
+    "static/media/Tec.svg": "/static/media/Tec.309c0b48.svg",
+    "static/media/styles.scss": "/static/media/perfil.6a9ae167.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecd94e98.js",
+    "static/js/2.91f68658.chunk.js",
+    "static/css/main.63c82b5f.chunk.css",
+    "static/js/main.f18c4ca8.chunk.js"
+  ]
+}
